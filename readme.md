@@ -21,6 +21,11 @@ To remove it
 sudo apt remove --auto-remove freecad
 ```
 
+
+## Tutorial
+
+[Desenho 01](./curso-desenho-tecnico/render/tutorial_video01.png)
+
 ### Useful links
 
 [Freecad](https://www.freecadweb.org/)

@@ -24,6 +24,7 @@ sudo apt remove --auto-remove freecad
 
 ## Tutorial
 
+[Curso de Desenho Técnico Freecad - PORTUGUESE](https://www.youtube.com/playlist?list=PLCQQLujpF4hUJrabtQ_a68gS3nflFC-nd)
 
 ### 01 - Start
 ![start](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video01.png)

@@ -51,6 +51,16 @@ sudo apt remove --auto-remove freecad
 ![linear pattern](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video06_padraoLinear.png)
 
 
+### 07 - Axes through revolution
+
+![axes through revolution](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video07_eixo_revolucao_1.png)
+
+![axes through revolution](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video07_eixo_revolucao_2.png)
+
+![axes through revolution](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video07_eixo_revolucao_3.png)
+
+![axes through revolution](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video07_eixo_revolucao_4.png)
+
 
 
 

@@ -21,6 +21,32 @@ To remove it
 sudo apt remove --auto-remove freecad
 ```
 
+## Freecad video examples
+
+### Simple piece
+
+[Desenho de uma peça utilizando o FreeCAD 3D - PORTUGUESE](https://www.youtube.com/watch?v=-HpmRlFD1YY&list=PL4ve0MDPJ_HvEBiAEcLMesNF07W1WTrni&index=1&t=58s)
+
+![simple piece](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/desenhos/render/desenho-peca.png)
+
+### Pulley
+
+[Criando uma polia de dois canais para impressão 3D - PORTUGUESE](https://www.youtube.com/watch?v=3o-jmXWmXMw&list=PL4ve0MDPJ_HvEBiAEcLMesNF07W1WTrni&index=2)
+
+![pulley](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/desenhos/render/desenho_polia_1.png)
+
+#### Schema
+![pulley](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/desenhos/render/desenho_polia_2.png)
+
+#### 45 degrees horizontal axis
+![pulley](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/desenhos/render/desenho_polia_3_45graus.png)
+
+#### 270 degrees horizontal axis
+![pulley](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/desenhos/render/desenho_polia_3_270graus.png)
+
+
+
+
 
 ## Tutorial
 

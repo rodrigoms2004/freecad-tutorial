@@ -1,4 +1,4 @@
-# Freecard tutorial
+# Freecad tutorial
 
 
 Freecad studies 

@@ -24,7 +24,8 @@ sudo apt remove --auto-remove freecad
 
 ## Tutorial
 
-[Desenho 01](./curso-desenho-tecnico/render/tutorial_video01.png)
+![Desenho 01](./curso-desenho-tecnico/render/tutorial_video01.png =250x)
+
 
 ### Useful links
 

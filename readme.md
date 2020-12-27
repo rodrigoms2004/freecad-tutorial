@@ -96,7 +96,11 @@ sudo apt remove --auto-remove freecad
 ![axes through revolution](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/curso-desenho-tecnico/render/tutorial_video07_eixo_revolucao_4.png)
 
 
+## Dr Vax
 
+[FreeCAD for Beginners | 3d Printing | Basics](https://www.youtube.com/watch?v=6JOITgw_T1Y&list=PL4ve0MDPJ_HvEBiAEcLMesNF07W1WTrni&index=7)
+
+![part1](https://github.com/rodrigoms2004/freecad-tutorial/blob/main/DrVax_FreecadBeginners/render/part1.png)
 
 
 ### Useful links
